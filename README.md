@@ -3,89 +3,88 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/356cea10-a442-4a97-8cf8-37e0a701736a" alt="Dominate your fate" width="350"/>
+  <img src="https://github.com/user-attachments/assets/356cea10-a442-4a97-8cf8-37e0a701736a" alt="Dominate your fate" width="160"/>
   <h1>Hi, I'm Nathaniel Mina 👋</h1>
-  <h3>Entrepreneur | Builder | Tech Enthusiast | AI Advocate</h3>
+  <h3>CEO | Mechanical Engineer | Problem-Solver | AI Enthusiast</h3>
+  <p>Pittsford & Rochester, NY | <a href="https://www.PureComp.Net">Pure Computers</a> | <a href="https://www.linkedin.com/in/dom-i-nate">LinkedIn</a></p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 👤 About Me
 
-- 🧑‍💻 **Founder & CEO:** [Pure Computers](https://www.PureComp.net) – Rochester, NY
-- 💡 **Interests:** Custom PC building, AI for business, learning to code, philosophy, and digital marketing
-- 🛠️ **Tech Stack:** Python, C#, modern AI tools (ChatGPT, DALL-E), business automation
-- 🎯 **Mission:** Empower others through accessible tech, innovation, and community
-
----
-
-### 🌐 Connect with Me
-
-- [Beacons Profile (All Links)](https://beacons.ai/P_C/aboutme) ✨ (Get [$20 Credit](https://beacons.ai/signup?c=p_c) for signing up!)
-- [Facebook](https://facebook.com/natemina)
-- [Instagram](https://www.instagram.com/dom.i_nate/)
-- [TikTok](https://www.tiktok.com/@dom-i-nater)
-- [Threads](https://www.threads.net/@dom-i-nater)
-- [LinkedIn](https://www.linkedin.com/in/natestechlinks/)
-- 👉 [Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dom-i-nate)
+- **CEO & Founder:** [Pure Computers](https://www.PureComp.Net) — Rochester, NY Metropolitan Area
+- **Mechanical Engineering Background:** B.S. from Rochester Institute of Technology
+- **Innovation Leader:** Embedding problem-solving, technical support, and AI into business operations
+- **Certified in:** Generative AI · 5 Whys Analysis
+- **Customer-Focused:** Experience at ADT honed my service and complex problem-solving skills
 
 ---
 
-## 🏢 About Pure Computers
+### 🏆 Career & Experience
 
-**Pure Computers** is Rochester’s go-to for custom PCs, expert repairs, and AI-powered business consulting:
-
-- 🖥️ **Custom Computer Builds:** Gaming, workstations, and more—built for you, tested for excellence.
-- 🛠️ **Repairs & Data Recovery:** Fast, reliable fixes for desktops, laptops, and POS systems.
-- 🤖 **AI Business Consulting:** Unlock efficiency with ChatGPT, DALL-E, and cutting-edge automation.
-- 💬 **Tech Support:** Remote or local, always responsive and clear.
-- 💸 **Transparent Pricing:** Free estimates, competitor price-match, unbeatable value.
-
-**Why Choose Us?**
-- Customer-first, always.
-- Deep tech expertise.
-- Passion for AI & innovation.
-- Local roots, global knowledge.
+- **Pure Computers** — Chief Executive Officer *(2018–Present, Rochester NY)*  
+  Spearheading technical solutions, AI integration, and operational efficiency with Microsoft Power Automate.
+- **ADT** — Customer Service Representative *(2018–2021, Henrietta NY)*  
+  Developed advanced customer relations and troubleshooting expertise.
+- **Waveguide Communications** — Project Administrator *(2012–2017, Germany)*  
+  Managed large-scale projects and cross-functional teams.
+- **Education:**  
+  Rochester Institute of Technology — B.S., Mechanical Engineering *(2007–2012)*
 
 ---
 
-### 🌟 What Makes Us Different?
+### 🛠️ Top Skills
 
-| 🏆 Technical Excellence | 💬 Personalized Service | 💡 AI Innovation | 💲 Competitive Pricing | 🫱‍🫲 Community Focus |
-|:----------------------:|:----------------------:|:---------------:|:---------------------:|:-------------------:|
-| Latest tech, top skills | Solutions tailored to you | Real business impact | More for your money | Supporting Rochester |
-
----
-
-## 📢 Peer Comparison
-
-- **Local Shops:** Solid repairs, but few offer custom builds + AI consulting.
-- **Big Box Stores:** Basic support, mass-market PCs.
-- **Online Builders:** Custom builds, but no local touch or hands-on support.
-
-**Pure Computers:** Merges custom builds, AI expertise, and a genuine local connection.
+- **Project Management**
+- **Computer Science**
+- **Manufacturing**
+- **AI Integration**  
+- **Customer Service**
+- **Business Marketing**
 
 ---
 
-## 🎯 Mission Statement
+### 🎓 Certifications
 
-> Pure Computers delivers **pure performance** and **pure value** through custom builds, expert support, and innovative AI solutions—empowering Rochester’s tech community and beyond.
+- **Introduction to Generative AI**
+- **Conduct a 5 Whys Analysis in Miro**
 
-- **Craft:** PCs tailored to your needs.
-- **Support:** Fast, expert repairs.
-- **Innovate:** AI solutions for business growth.
-- **Connect:** Building a vibrant tech community.
+---
+
+### 🌟 At Pure Computers
+
+**Pure Computers** specializes in:
+- 🖥️ Custom PC Builds (Gaming, Workstation, Business)
+- 🔧 Expert Repairs & Data Recovery
+- 🤖 AI-Driven Business Consulting (ChatGPT, DALL-E, GitHub, Power Automate)
+- 💬 Responsive Tech Support (Local & Remote)
+- 💸 Transparent Pricing & Estimates
+
+**Mission:**  
+Empowering individuals and businesses through accessible, innovative technology.
+
+---
+
+### 📞 Contact & Socials
+
+- 📍 Rochester, New York & Surrounding Areas
+- 📱 **Work:** 585-484-1764
+- ✉️ **Email:** nate@natemina.onmicrosoft.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dom-i-nate)
+- 🖥️ [Pure Computers Website](https://www.PureComp.Net)
+- 🌐 [Portfolio: P-C.Live](https://P-C.Live)
+- ✨ [All Links & $20 Beacons Credit](https://beacons.ai/P_C/aboutme)
 
 ---
 
 <div align="center">
 
-### Ready to dominate your fate?  
+### Ready to optimize your tech and dominate your fate?  
 **[Let’s connect!](https://beacons.ai/P_C/aboutme)**
 
----
-  
 Nathaniel Mina  
-CEO & Owner @[Pure Computers](https://www.PureComp.net)  
-[Pure Computers on Facebook](https://facebook.com/purecompr)  
+CEOwner @[Pure Computers](https://www.PureComp.Net)  
 </div>
+
+---
