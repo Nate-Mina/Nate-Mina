@@ -114,21 +114,10 @@ I pulled these directly from the Portfolio-CV link-in-bio data so they match the
 A curated selection of repositories that represent my work across portfolio hosting, tooling, AI/LLM research, and Pure Computers projects.
 
 - 🔹 Portfolio-CV — Nathaniel Mina's interactive Portfolio/link-in-bio/CV/resume  
-  https://github.com/Nate-Mina/Portfolio-CV
-- 🔹 pure — PC SITE (Pure Computers front-end / site)  
-  https://github.com/Nate-Mina/pure
-- 🔹 PC-berry — Active development trunk for Yarn ⚒  
-  https://github.com/Nate-Mina/PC-berry
-- 🔹 PC-next — Pure Computers client-side example (Next.js/TypeScript)  
+  (Portfolio-CV)[https://github.com/Nate-Mina/Portfolio-CV]
+
   https://github.com/Nate-Mina/PC-next
-- 🔹 llama-recipes — Fine-tuning / training recipes & utilities for Meta Llama (FSDP/PEFT support)  
-  https://github.com/Nate-Mina/llama-recipes
-- 🔹 llama3 — The PURE Meta Llama 3 (experiments & demos)  
-  https://github.com/Nate-Mina/llama3
-- 🔹 natesclaw — Nate's personal AI assistant (multi-platform agent)  
-  https://github.com/Nate-Mina/natesclaw
-- 🔹 PCbot — automation experiments and chatbot tooling  
-  https://github.com/Nate-Mina/PCbot
+t
 
 (There are many more repos — visit https://github.com/Nate-Mina to explore the full list.)
 
@@ -136,7 +125,7 @@ A curated selection of repositories that represent my work across portfolio host
 
 ## How to reach me
 Best places to contact:
-- ✉️ Email: NateMina@gmail.com (primary)
+- ✉️ Email: Nate@purecomp.onmicrosoft.com (primary)
 - 📞 Phone: (585) 484-1764
 - 🌐 Portfolio & contact form: https://nate-mina.github.io/Portfolio-CV
 - 🏢 Business inquiries: https://www.PureComp.Net
