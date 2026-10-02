@@ -1,6 +1,6 @@
 # Nathaniel (Nate) K. Mina
 
-I'm kind of a Learner, Teacher. Engineer. Entrepreneur. Businessman, Content creator. And musician.
+I'm kind of a Learner, Teacher. Engineer. Entrepreneur, Content creator. And musician.
 
 This repository is my personal profile hub. It links to my interactive Portfolio-CV (live site and source repo) and aggregates my contact information, social profiles, featured projects, and a short summary of my background and capabilities.
 
