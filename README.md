@@ -84,7 +84,7 @@ https://nate-mina.github.io/Portfolio-CV
 
 ### Systems Engineering & Hardware
 - Bespoke workstation design
-- Mult-GPU and compute-heavy environments
+- Multi-GPU and compute-heavy environments
 - Diagnostic and forensic troubleshooting
 - Liquid cooling and performance-driven builds
 
