@@ -7,7 +7,7 @@ This repository is my personal profile hub. It links to my interactive Portfolio
 Live portfolio / CV: https://nate-mina.github.io/Portfolio-CV  
 Portfolio repo (source): https://github.com/Nate-Mina/Portfolio-CV
 [Music Portfolio](https://nate-mina.github.io/DomInNATEly)
-
+https://nate-mina.github.io/DomInNATEly
 ---
 
 ## Quick summary
